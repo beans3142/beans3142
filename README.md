@@ -11,4 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beans3142&show_icons=true&theme=radical)
+[![Solved.ac
+beans3142](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
