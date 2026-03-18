@@ -21,7 +21,6 @@
 ---
 
 ### 🏆 Algorithm
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=beans3142)](https://solved.ac/beans3142)
 
 | Platform | Profile | Rating |
 |----------|---------|--------|
