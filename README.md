@@ -24,7 +24,7 @@
 
 | Platform | Profile | Rating |
 |----------|---------|--------|
-| **Baekjoon** | [beans3142](https://solved.ac/profile/beans3142) | 💎 Diamond 3 |
+| **Baekjoon** | [beans3142](https://solved.ac/profile/beans3142) | 💎 Diamond |
 | **Codeforces** | [breans3142](https://codeforces.com/profile/breans3142) | 🔵 Expert |
 | **AtCoder** | [beans3142](https://atcoder.jp/users/beans3142) | 🔵 Cyan |
 
