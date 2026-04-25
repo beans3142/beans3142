@@ -28,7 +28,7 @@
 | **Codeforces** | [breans3142](https://codeforces.com/profile/breans3142) | 🔵 Expert |
 | **AtCoder** | [beans3142](https://atcoder.jp/users/beans3142) | 🔵 Cyan |
 
-**대회 실적**
+**대회**
 - 🏅 현대모비스 알고리즘 경진대회 2022 장려상
 - 🏅 ICPC 2025 Seoul Regional 본선
 - 🏅 Amazon × CodeTree ACPC 2025 본선
