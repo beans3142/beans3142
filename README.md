@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Wangyu Ryu
 
-**Backend Engineer** @ AB180 | Korea Aerospace Univ. Software
+Korea Aerospace Univ. Software
 
 [![Blog](https://img.shields.io/badge/Blog-tistory-orange?style=flat-square&logo=tistory)](https://beans3142.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Email-greenbeans3142-EA4335?style=flat-square&logo=gmail)](mailto:greenbeans3142@naver.com)
